@@ -1,0 +1,33 @@
+{
+  "name": "package-demo",
+  "version": "1.0.0",
+  "description": "a demo for package to github",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "ci": "npm run build",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "demo",
+    "github",
+    "typescript"
+  ],
+  "homepage": "https://github.com/bobostudio/package-demo",
+  "bugs": {
+    "url": "https://github.com/bobostudio/package-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobostudio/package-demo.git"
+  },
+  "author": "bobostudio",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}
