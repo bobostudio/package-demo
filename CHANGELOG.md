@@ -1,5 +1,11 @@
 # package-demo
 
+## 1.0.4
+
+### Patch Changes
+
+- bf0ee9a: new version
+
 ## 1.0.3
 
 ### Patch Changes
