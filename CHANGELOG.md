@@ -1,5 +1,11 @@
 # package-demo
 
+## 1.2.3
+
+### Patch Changes
+
+- b343cfb: new version
+
 ## 1.2.2
 
 ### Patch Changes
