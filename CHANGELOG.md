@@ -1,5 +1,11 @@
 # package-demo
 
+## 1.1.0
+
+### Minor Changes
+
+- 2883678: new version
+
 ## 1.0.4
 
 ### Patch Changes
