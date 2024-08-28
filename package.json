@@ -24,6 +24,9 @@
     "test": "vitest run",
     "release:local": "changeset version && changeset publish"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "demo",
     "github",
