@@ -1,5 +1,11 @@
 # package-demo
 
+## 1.2.1
+
+### Patch Changes
+
+- 924ead9: new version
+
 ## 1.2.0
 
 ### Minor Changes
