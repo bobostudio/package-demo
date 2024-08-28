@@ -1,5 +1,11 @@
 # package-demo
 
+## 1.2.2
+
+### Patch Changes
+
+- 4aa2b3f: new version
+
 ## 1.2.1
 
 ### Patch Changes
