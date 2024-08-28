@@ -1,5 +1,11 @@
 # package-demo
 
+## 1.1.1
+
+### Patch Changes
+
+- ffbfa63: a new version
+
 ## 1.1.0
 
 ### Minor Changes
