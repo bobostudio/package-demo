@@ -1,5 +1,11 @@
 # package-demo
 
+## 1.2.0
+
+### Minor Changes
+
+- 192f237: new version
+
 ## 1.1.1
 
 ### Patch Changes
